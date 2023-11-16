@@ -1,0 +1,6 @@
+PROFILE=your-aws-cli-profile
+REGION=us-east-1
+BUCKET=your-configuration-bucket
+
+CDK_STACK=sf-cdk-example
+O_SF_ARN=output-sf-arn
